@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.joblib
+.DS_Store
+model_categories.json
+debug_join.py
+debug_rabbit.py
+test_series.py
+private.key
